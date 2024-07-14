@@ -1,3 +1,5 @@
+![Screenshot (116)](https://github.com/user-attachments/assets/9e0d0fbe-e413-475f-bb67-1d48bb0e9346)
+
 # Real Estate NFT DApp
 
 ## Technology Stack & Tools
@@ -11,7 +13,7 @@
 ## Requirements For Initial Setup
 - Install [NodeJS](https://nodejs.org/en/)
 
-## Setting Up![Screenshot (116)](https://github.com/user-attachments/assets/9e0d0fbe-e413-475f-bb67-1d48bb0e9346)
+## Setting Up
 
 ### 1. Clone/Download the Repository
 
